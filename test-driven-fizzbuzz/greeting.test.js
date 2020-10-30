@@ -1,5 +1,4 @@
 const test = require('ava');
-const assert = require('assert');
 
 const greeting = guest => `Hello, ${guest}!`;
 
